@@ -1,7 +1,7 @@
 <h1> Deret Fibonacci Toast java</h1>
 
-Nama : Muhamad Jati Wasesa
-NIM : 312210481
+Nama : Faisal Arya Yudanto
+NIM : 312210555
 Kelas : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 1
